@@ -14,4 +14,8 @@ html {
 .box
 {
     width: 400px;
+    
 }
+::-webkit-scrollbar {
+    width: 0.5px;
+  }
